@@ -6,6 +6,8 @@
 
 ## Navigation
 
+https://heroku.com/deploy?template=https://github.com/
+
 - [Bibliogram project on sourcehut][project]
 - › Bibliogram code repository
 - [Bibliogram issues tracker][issues]
